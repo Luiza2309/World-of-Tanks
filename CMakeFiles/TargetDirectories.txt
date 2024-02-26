@@ -1,0 +1,3 @@
+C:/Users/Lizi/Desktop/EGC/gfx-framework-master/CMakeFiles/GFXFramework.dir
+C:/Users/Lizi/Desktop/EGC/gfx-framework-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lizi/Desktop/EGC/gfx-framework-master/CMakeFiles/ZERO_CHECK.dir
